@@ -1,0 +1,17 @@
+div {
+  text-align: right;
+}
+h1 {
+  text-decoration: underline;
+  font-size: 50px;
+}
+p {
+  text-decoration: overline;
+}
+h2 {
+  text-decoration: line-through;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
