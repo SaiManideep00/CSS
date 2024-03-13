@@ -1,0 +1,47 @@
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+#green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  margin: 10px;
+}
+#red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 10px;
+}
+#yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin: 10px;
+}
+#traffic {
+  border: 2px solid black;
+  width: 150px;
+  padding-left: 20px;
+}
+#nav-bar {
+  background-color: black;
+  border: 10px solid white;
+  height: 60px;
+  color: white;
+}
+
+#logo {
+  color: #f08804;
+  font-size: 25px;
+}
+button {
+  background-color: #f08804;
+}
+a {
+  margin-right: 200px;
+}
