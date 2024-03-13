@@ -1,0 +1,44 @@
+#nav-bar {
+  background-color: black;
+  border: 2px solid white;
+  height: 60px;
+  color: white;
+}
+#logo {
+  color: #f08804;
+  font-size: 25px;
+}
+button {
+  background-color: #f08804;
+}
+a {
+  margin-right: 200px;
+}
+main {
+  height: 600px;
+}
+
+#div1 {
+  background-color: rgba(111, 222, 223, 0.5);
+}
+#div2 {
+  background-color: rgba(191, 111, 19, 0.5);
+}
+#div3 {
+  background-color: rgba(232, 21, 144, 0.5);
+}
+.box {
+  display: inline-block;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.box {
+  margin-top: 100px;
+  margin-left: 100px;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+}
