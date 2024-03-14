@@ -1,0 +1,24 @@
+#div1 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+#div2 {
+  height: 50px;
+  width: 30%;
+  background-color: yellow;
+}
+#div3 {
+  margin-top: 100px;
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  font-size: 20px;
+}
+#div4 {
+  height: 80px;
+  margin-top: 20px;
+  background-color: yellow;
+  font-size: 2em; /* 2 times of parents font-size*/
+  width: 3em; /* 3 times of its font-size which is 3*40=120*/
+}

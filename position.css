@@ -1,0 +1,31 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+  border: 2px solid black;
+  display: inline-block;
+}
+#box1 {
+  position: static;
+  background-color: blue;
+}
+#box2 {
+  position: relative; /*relative to itsself*/
+  top: 10px;
+  left: 10px;
+  background-color: brown;
+}
+#box3 {
+  position: absolute;
+  background-color: yellow;
+  top: 10px; /*closes positioned non static ancestor is body*/
+  left: 10px;
+}
+#box4 {
+  position: fixed;
+  top: 0px; /*from the browser*/
+}
+#box5 {
+  position: sticky;
+  top: 500px;
+}
